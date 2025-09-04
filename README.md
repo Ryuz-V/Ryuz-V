@@ -32,7 +32,7 @@
 
 <div align="center">
 
-<h4>I Am Ready To Work With</h4>
+<h4>My Tech Arsenal</h4>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,php,vite,react,py,figma,ai,photoshop,mysql,vscode,net,github,bootstrap,git,&perline=7 )](https://skillicons.dev)
 

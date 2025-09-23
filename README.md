@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="/asset/wuthering-waves-wuwa.gif" width="100%">
+<img src="/asset/fuji-kiseki-uma-musume.gif" width="100%">
 
 </div>
 

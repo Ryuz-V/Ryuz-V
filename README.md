@@ -1,14 +1,6 @@
 <div align="center">
-
-</div>
-
-<div align="center">
-
-<h2>Hello I Am V🐦‍⬛</h2>
-
-
-<h5>I Am Just A Developer Who Loves Exploring New Technologies And Creating Projects Based On The Extraordinary Idea I Have.</h5>
-
+<h1>Hello I Am V🐦‍⬛</h1>
+<h5 align="center">I Am Just A Developer Who Loves Exploring New Technologies And Creating Projects Based On The Extraordinary Idea I Have.</h5>
 </div>
 
 <div align="center">
@@ -17,7 +9,7 @@
 
 </div>
 
-<p align="left">
+<p align="center">
   <a href="https://www.tiktok.com/@username"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/username"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>

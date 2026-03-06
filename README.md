@@ -26,8 +26,6 @@
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ryuz-v&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 </div>
 
-<br>
-
 ##  My Digital Journey 
 
 I am a **Full-Stack & Software Engineer** who loves trying and learning new things. “I pursue high quality not just as a task, but as a standard of living. Driven by a great curiosity, I use every challenge as fuel for self-improvement. In the rapidly changing world of technology, I choose not just to follow the flow, but to continue evolving to create something extraordinary.
@@ -78,47 +76,31 @@ Currently, I am studying and experimenting with building projects such as bots, 
 
 
 ## My Statistik GitHub
-<details open>
-
-<h3>📊 Statistics</h3> 
-    <img alt="DIMFLIX Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DIMFLIX&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
-    <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=33E6F7&width=435&lines=Hi+There!+%F0%9F%91%8B;I+Build+Web+Apps;I+Love+Open+Source;Always+Learning..." alt="Typing SVG" />
-</a>
-
-   </td>
-    <td width="400" valign="center">
-      <!-- 3D Stats (Placeholder until Generated) -->
-      <div align="center">
-        <br>
-        <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Stats (Run Action to Generate)" width="100%"/>
-        <p><i>(3D Stats will appear here after workflow run)</i></p>
-      </div>
-    </td>
-  </tr>
-</table>
-</details>
-
-<picture>
+<div align="center">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuz-V&theme=tokyonight&hide_border=true&background=00000000" alt="streak graph" />
+</div>
+  <img alt="DIMFLIX Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Ryuz-V&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+  <!-- pacman statik --
+  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryuz-V/Ryuz-V/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ryuz-V/Ryuz-V/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ryuz-V/Ryuz-V/output/pacman-contribution-graph.svg">
 </picture>
-
+ -->
 </div>
 
-<div >
+## Activity 
 
-<br>
-
-<hr>
-
+<details open>
 <div align="center">
 
 #### 🎧 What I'm Listening To
 [![Spotify](https://novatorem-spotify-readme.vercel.app/api/spotify?background_color=1a1a1a&border_color=53d1f8&unique_id=12345)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
 
 </div>
+
+</details>
 
 <div align="center">
 

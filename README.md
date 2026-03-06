@@ -3,7 +3,7 @@
   <br>
   <br>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=DotGothic16&size=26&duration=2000&pause=3000&color=F7F7F7&center=true&repeat=false&width=435&lines=Hello+World!%2C+I'm+V!"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Itim&size=26&duration=2000&pause=3000&color=F7F7F7&center=true&repeat=false&width=435&lines=Hello+World!%2C+I'm+V!"/>
   </a>
 </div>
 
@@ -22,31 +22,82 @@
   <a href="https://www.instagram.com/ryuzzv_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://www.facebook.com/profile.php?id=100074383345625&sk=about&locale=id_ID"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://x.com/Niel_lah"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+
+  [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ryuz-v&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 </div>
 
-## 👻 A little about me... 
+<br>
 
-<div align="center">
+##  My Digital Journey 
 
-<h4>My Tech Arsenal</h4>
+I am a **Full-Stack & Software Engineer** who loves trying and learning new things. “I pursue high quality not just as a task, but as a standard of living. Driven by a great curiosity, I use every challenge as fuel for self-improvement. In the rapidly changing world of technology, I choose not just to follow the flow, but to continue evolving to create something extraordinary.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,php,vite,react,py,figma,ai,photoshop,vscode,github,bootstrap,git,&perline=7 )](https://skillicons.dev)
+Currently, I am studying and experimenting with building projects such as bots, websites, and applications.
 
+
+## Tech Arsenal
+<div align="left">
+
+**Frontend**
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,bootstrap,react,ts,&perline=10 )](https://skillicons.dev)
+
+**Backend**
+
+[![My Skills](https://skillicons.dev/icons?i=laravel,php,nodejs,python,vite&perline=10 )](https://skillicons.dev)
+
+**Datasbases & Devops**
+
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,git,docker&perline=10 )](https://skillicons.dev)
+
+**UI / UX**
+
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai&perline=10 )](https://skillicons.dev)
 </div>
 
-------
-
+<!--  
+## My Organizations & Community
 <div align="center">
-
-#### 📈 **My Statistik GitHub**
-
+<table>
+<tr>
+<td><a href="https://github.com/meowrch"><img src="./assets/meowrch.png" width="330" height="180"/></a></td>
+<td><a href="https://github.com/DIMFLIX-Hackathons"><img src="./assets/hackathons.png" width="330" height="180"/></a></td>
+</tr>
+<tr>
+<td><a href="https://github.com/DIMFLIX-Designs"><img src="./assets/designs.png" width="330" height="180"/></a></td>
+<td><a href="https://github.com/DIMFLIX-EDUCATION"><img src="./assets/education.png" width="330" height="180"/></a></td>
+</tr>
+</table>
 </div>
+-->
 
-<div align="center">
+<!-- sertifikat -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ryuz-V&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ryuz-V&layout=compact&theme=radical)
+<!-- project tampilan -->
+
+
+## My Statistik GitHub
+<details open>
+
+<h3>📊 Statistics</h3> 
+    <img alt="DIMFLIX Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DIMFLIX&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+    <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=33E6F7&width=435&lines=Hi+There!+%F0%9F%91%8B;I+Build+Web+Apps;I+Love+Open+Source;Always+Learning..." alt="Typing SVG" />
+</a>
+
+   </td>
+    <td width="400" valign="center">
+      <!-- 3D Stats (Placeholder until Generated) -->
+      <div align="center">
+        <br>
+        <img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D Stats (Run Action to Generate)" width="100%"/>
+        <p><i>(3D Stats will appear here after workflow run)</i></p>
+      </div>
+    </td>
+  </tr>
+</table>
+</details>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryuz-V/Ryuz-V/output/pacman-contribution-graph-dark.svg">
@@ -74,3 +125,4 @@
 <img src="/asset/GwynuupaMAAHSkc.png" alt="gif/img">
 
 </div>
+

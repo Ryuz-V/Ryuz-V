@@ -94,7 +94,20 @@ Currently, I am studying and experimenting with building projects such as bots, 
 
 <details open>
 
-| [![Discord Presence](https://lanyard.cnrad.dev/api/906879566847549471)](https://discord.com/users/906879566847549471) | [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312lg5pf7jevxcmxczncx6rxdjqu&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=312lg5pf7jevxcmxczncx6rxdjqu&redirect=true) |
+<table>
+  <tr>
+    <td>
+      <a href="https://discord.com/users/906879566847549471">
+        <img src="https://lanyard.cnrad.dev/api/906879566847549471" alt="Discord Presence"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312lg5pf7jevxcmxczncx6rxdjqu&redirect=true">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312lg5pf7jevxcmxczncx6rxdjqu&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color_cover=true" alt="Spotify"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 </details>
 

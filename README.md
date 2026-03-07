@@ -81,6 +81,7 @@ Currently, I am studying and experimenting with building projects such as bots, 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuz-V&theme=tokyonight&hide_border=true&background=00000000" alt="streak graph" />
 </div>
   <img alt="DIMFLIX Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Ryuz-V&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
+  <figure><embed src="https://wakatime.com/share/@Ryuz/4fd98d8d-46b5-4cb5-99f1-143e0583a5c2.svg"></embed></figure>
   <!-- pacman statik --
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryuz-V/Ryuz-V/output/pacman-contribution-graph-dark.svg">
@@ -90,7 +91,7 @@ Currently, I am studying and experimenting with building projects such as bots, 
  -->
 </div>
 
-## Activity 
+## Track Record
 
 <details open>
 <div align="center">
@@ -106,6 +107,18 @@ Currently, I am studying and experimenting with building projects such as bots, 
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312lg5pf7jevxcmxczncx6rxdjqu&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color_cover=true" alt="Spotify"/>
       </a>
     </td>
+  </tr>
+</table>
+<table>
+  <tr>
+      <td>
+
+[![V's Dev Card](https://api.daily.dev/devcards/v2/NziSt6YDJYyPah45jpW3U.png?type=default&r=pa1)](https://app.daily.dev/ryuzv)
+    </td>
+    <td>
+[![DevCard](/asset/Screenshot%202026-03-07%20142855.png)](https://devcard.link/jOV2H0)
+    </td>
+
   </tr>
 </table>
 </div>

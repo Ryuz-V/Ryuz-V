@@ -93,12 +93,8 @@ Currently, I am studying and experimenting with building projects such as bots, 
 ## Activity 
 
 <details open>
-<div align="center">
 
-#### 🎧 What I'm Listening To
-[![Spotify](https://novatorem-spotify-readme.vercel.app/api/spotify?background_color=1a1a1a&border_color=53d1f8&unique_id=12345)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
-
-</div>
+| [![Discord Presence](https://lanyard.cnrad.dev/api/906879566847549471)](https://discord.com/users/906879566847549471) | [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=312lg5pf7jevxcmxczncx6rxdjqu&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=312lg5pf7jevxcmxczncx6rxdjqu&redirect=true) |
 
 </details>
 

@@ -93,7 +93,7 @@ Currently, I am studying and experimenting with building projects such as bots, 
 ## Activity 
 
 <details open>
-
+<div align="center">
 <table>
   <tr>
     <td>
@@ -108,7 +108,7 @@ Currently, I am studying and experimenting with building projects such as bots, 
     </td>
   </tr>
 </table>
-
+</div>
 </details>
 
 <div align="center">

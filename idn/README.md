@@ -91,7 +91,7 @@ Saat ini, saya sedang mempelajari dan bereksperimen dengan membangun proyek-proy
  -->
 </div>
 
-## Zona Aktivitas
+## Zona
 
 <details open>
 <div align="center">

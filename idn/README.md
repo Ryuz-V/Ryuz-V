@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/asset/stay-gold-stego.gif" alt="stego" style="width: 250px">
+  <img src="/asset/vertin-reverse-1999.webp" alt="my-wife" style="width: 250px">
   <br>
   <br>
   <a href="https://git.io/typing-svg">
@@ -26,14 +26,14 @@
   [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Ryuz-v&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
 </div>
 
-##  My Digital Journey 
+##  Perjalanan Digital 
 
-I am a Student **FRONTED DEV & Software Engineer** who loves trying and learning new things. “I pursue high quality not just as a task, but as a standard of living. Driven by a great curiosity, I use every challenge as fuel for self-improvement. In the rapidly changing world of technology, I choose not just to follow the flow, but to continue evolving to create something extraordinary.
+Saya adalah seorang Mahasiswa **Pengembang Front-end & Sofware Engineer** yang senang mencoba dan mempelajari hal-hal baru. “Saya mengutamakan kualitas tinggi bukan sekadar sebagai tugas, melainkan sebagai standar hidup. Didorong oleh rasa ingin tahu yang besar, saya memanfaatkan setiap tantangan sebagai motivasi untuk terus berkembang. Di dunia teknologi yang terus berubah dengan cepat, saya memilih tidak hanya mengikuti arus, tetapi terus berkembang untuk menciptakan sesuatu yang luar biasa.
 
-Currently, I am studying and experimenting with building projects such as bots, websites, and applications.
+Saat ini, saya sedang mempelajari dan bereksperimen dengan membangun proyek-proyek seperti bot, situs web, dan aplikasi.
 
 
-## Tech Arsenal
+## Peralatan Siap Tempur
 <div align="left">
 
 **Frontend**
@@ -75,7 +75,7 @@ Currently, I am studying and experimenting with building projects such as bots, 
 <!-- project tampilan -->
 
 
-## My Statistik GitHub
+## Statistik GitHub
 <div align="center">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuz-V&theme=tokyonight&hide_border=true&background=00000000" alt="streak graph" />
@@ -91,7 +91,7 @@ Currently, I am studying and experimenting with building projects such as bots, 
  -->
 </div>
 
-## Track Record
+## Zona Aktivitas
 
 <details open>
 <div align="center">
@@ -126,7 +126,7 @@ Currently, I am studying and experimenting with building projects such as bots, 
 
 <div align="center">
 
-<img src="/asset/GwynuupaMAAHSkc.png" alt="gif/img">
+<img src="/asset/24e0949fd84037792ca7be263c1d32c2.jpg" alt="gif/img">
 
 </div>
 

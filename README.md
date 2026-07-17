@@ -28,7 +28,7 @@
 
 ##  My Digital Journey 
 
-I am a Student **FRONTED DEV & Software Engineer** who loves trying and learning new things. “I pursue high quality not just as a task, but as a standard of living. Driven by a great curiosity, I use every challenge as fuel for self-improvement. In the rapidly changing world of technology, I choose not just to follow the flow, but to continue evolving to create something extraordinary.
+I am a High School Student who loves trying and learning new things. “I pursue high quality not just as a task, but as a standard of living. Driven by a great curiosity, I use every challenge as fuel for self-improvement. In the rapidly changing world of technology, I choose not just to follow the flow, but to continue evolving to create something extraordinary.
 
 Currently, I am studying and experimenting with building projects such as bots, websites, and applications.
 

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/asset/vertin-reverse-1999.webp" alt="my-wife" style="width: 250px">
+  <img src="/asset/tiredzani-zani.gif" alt="my-wife" style="width: 250px">
   <br>
   <br>
   <a href="https://git.io/typing-svg">
@@ -126,7 +126,7 @@ Saat ini, saya sedang mempelajari dan bereksperimen dengan membangun proyek-proy
 
 <div align="center">
 
-<img src="/asset/24e0949fd84037792ca7be263c1d32c2.jpg" alt="gif/img">
+<img src="/asset/monkey.jpg" alt="gif/img">
 
 </div>
 

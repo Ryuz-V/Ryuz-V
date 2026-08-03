@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/asset/stay-gold-stego.gif" alt="stego" style="width: 250px">
+  <img src="/asset/wuwa-wuthering-waves.gif" alt="stego" style="width: 250px">
   <br>
   <br>
   <a href="https://git.io/typing-svg">
@@ -126,7 +126,8 @@ Currently, I am studying and experimenting with building projects such as bots, 
 
 <div align="center">
 
-<img src="/asset/GwynuupaMAAHSkc.png" alt="gif/img">
+<img src="/asset/Bed.jpg" alt="gif/img">
+<img src="/asset/sawit.jpg" alt="gif/img">
 
 </div>
 

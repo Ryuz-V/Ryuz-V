@@ -35,8 +35,10 @@ Currently, I am studying and experimenting with building projects such as bots, 
 
 ## Tech Arsenal
 <div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,bootstrap,react,ts,laravel,php,nodejs,python,vite,mongodb,mysql,git,docker,figma,ps,ai,vscode,visualstudio&perline=9 )](https://skillicons.dev)
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,bootstrap,react,ts,laravel,php,nodejs,python,vite,mongodb,mysql,git,docker,figma,ps,ai,vscode,visualstudio&perline=9" alt="My Skills" />
+  </a>
+</div>
 
 <!--  
 ## My Organizations & Community

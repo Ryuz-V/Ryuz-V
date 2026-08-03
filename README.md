@@ -36,22 +36,7 @@ Currently, I am studying and experimenting with building projects such as bots, 
 ## Tech Arsenal
 <div align="left">
 
-**Frontend**
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,bootstrap,react,ts,&perline=10 )](https://skillicons.dev)
-
-**Backend**
-
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,nodejs,python,vite&perline=10 )](https://skillicons.dev)
-
-**Datasbases & Devops**
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,git,docker&perline=10 )](https://skillicons.dev)
-
-**UI / UX**
-
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai&perline=10 )](https://skillicons.dev)
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,bootstrap,react,ts,laravel,php,nodejs,python,vite,mongodb,mysql,git,docker,figma,ps,ai,vscode,visualstudio&perline=9 )](https://skillicons.dev)
 
 <!--  
 ## My Organizations & Community

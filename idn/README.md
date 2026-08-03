@@ -28,7 +28,7 @@
 
 ##  Perjalanan Digital 
 
-Saya adalah seorang Siswa **Pengembang Front-end & Sofware Engineer** yang senang mencoba dan mempelajari hal-hal baru. “Saya mengutamakan kualitas tinggi bukan sekadar sebagai tugas, melainkan sebagai standar hidup. Didorong oleh rasa ingin tahu yang besar, saya memanfaatkan setiap tantangan sebagai motivasi untuk terus berkembang. Di dunia teknologi yang terus berubah dengan cepat, saya memilih tidak hanya mengikuti arus, tetapi terus berkembang untuk menciptakan sesuatu yang luar biasa.
+Saya adalah seorang Siswa SMK yang senang mencoba dan mempelajari hal-hal baru. “Saya mengutamakan kualitas tinggi bukan sekadar sebagai tugas, melainkan sebagai standar hidup. Didorong oleh rasa ingin tahu yang besar, saya memanfaatkan setiap tantangan sebagai motivasi untuk terus berkembang. Di dunia teknologi yang terus berubah dengan cepat, saya memilih tidak hanya mengikuti arus, tetapi terus berkembang untuk menciptakan sesuatu yang luar biasa.
 
 Saat ini, saya sedang mempelajari dan bereksperimen dengan membangun proyek-proyek seperti bot, situs web, dan aplikasi.
 
@@ -36,22 +36,7 @@ Saat ini, saya sedang mempelajari dan bereksperimen dengan membangun proyek-proy
 ## Peralatan Siap Tempur
 <div align="left">
 
-**Frontend**
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,bootstrap,react,ts,&perline=10 )](https://skillicons.dev)
-
-**Backend**
-
-[![My Skills](https://skillicons.dev/icons?i=laravel,php,nodejs,python,vite&perline=10 )](https://skillicons.dev)
-
-**Datasbases & Devops**
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,git,docker&perline=10 )](https://skillicons.dev)
-
-**UI / UX**
-
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,ai&perline=10 )](https://skillicons.dev)
-</div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,bootstrap,react,ts,laravel,php,nodejs,python,vite,mongodb,mysql,git,docker,figma,ps,ai,vscode,visualstudio&perline=9 )](https://skillicons.dev)
 
 <!--  
 ## My Organizations & Community

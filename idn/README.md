@@ -34,7 +34,7 @@ Saat ini, saya sedang mempelajari dan bereksperimen dengan membangun proyek-proy
 
 
 ## Peralatan Siap Tempur
-<div class="center">
+<div align="center">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,bootstrap,react,ts,laravel,php,nodejs,python,vite,mongodb,mysql,git,docker,figma,ps,ai,vscode,visualstudio,arch,linux&perline=9" width="600" alt="My Skills" />
 </a>

@@ -36,7 +36,7 @@ Currently, I am studying and experimenting with building projects such as bots, 
 ## Tech Arsenal
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,bootstrap,react,ts,laravel,php,nodejs,python,vite,mongodb,mysql,git,docker,figma,ps,ai,vscode,visualstudio&perline=9" width="600" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,bootstrap,react,ts,laravel,php,nodejs,python,vite,mongodb,mysql,git,docker,figma,ps,ai,vscode,visualstudio,arch,linux&perline=9" width="600" alt="My Skills" />
 </a>
 </div>
 
@@ -102,9 +102,9 @@ Currently, I am studying and experimenting with building projects such as bots, 
 
 [![V's Dev Card](https://api.daily.dev/devcards/v2/NziSt6YDJYyPah45jpW3U.png?type=default&r=pa1)](https://app.daily.dev/ryuzv)
     </td>
-    <td>
+    <!-- <td>
 [![DevCard](/asset/Screenshot%202026-03-07%20142855.png)](https://devcard.link/jOV2H0)
-    </td>
+    </td> -->
 
   </tr>
 </table>
@@ -113,7 +113,6 @@ Currently, I am studying and experimenting with building projects such as bots, 
 
 <div align="center">
 
-<img src="/asset/Bed.jpg" alt="gif/img">
 <img src="/asset/sawit.jpg" alt="gif/img">
 
 </div>

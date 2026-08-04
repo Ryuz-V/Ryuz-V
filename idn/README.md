@@ -28,15 +28,16 @@
 
 ##  Perjalanan Digital 
 
-Saya adalah seorang Siswa SMK yang senang mencoba dan mempelajari hal-hal baru. “Saya mengutamakan kualitas tinggi bukan sekadar sebagai tugas, melainkan sebagai standar hidup. Didorong oleh rasa ingin tahu yang besar, saya memanfaatkan setiap tantangan sebagai motivasi untuk terus berkembang. Di dunia teknologi yang terus berubah dengan cepat, saya memilih tidak hanya mengikuti arus, tetapi terus berkembang untuk menciptakan sesuatu yang luar biasa.
+Saya adalah seorang siswa SMK yang senang mencoba dan mempelajari hal-hal baru. “Saya mengutamakan kualitas tinggi bukan sekadar sebagai tugas, melainkan sebagai standar hidup. Didorong oleh rasa ingin tahu yang besar, saya memanfaatkan setiap tantangan sebagai motivasi untuk terus berkembang. Di dunia teknologi yang terus berubah dengan cepat, saya memilih tidak hanya mengikuti arus, tetapi terus berkembang untuk menciptakan sesuatu yang luar biasa.
 
 Saat ini, saya sedang mempelajari dan bereksperimen dengan membangun proyek-proyek seperti bot, situs web, dan aplikasi.
 
 
 ## Peralatan Siap Tempur
-<div align="left">
-
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,bootstrap,react,ts,laravel,php,nodejs,python,vite,mongodb,mysql,git,docker,figma,ps,ai,vscode,visualstudio&perline=9 )](https://skillicons.dev)
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,bootstrap,react,ts,laravel,php,nodejs,python,vite,mongodb,mysql,git,docker,figma,ps,ai,vscode,visualstudio,arch,linux&perline=9" width="600" alt="My Skills" />
+</a>
+</div>
 
 <!--  
 ## My Organizations & Community
@@ -101,8 +102,9 @@ Saat ini, saya sedang mempelajari dan bereksperimen dengan membangun proyek-proy
 [![V's Dev Card](https://api.daily.dev/devcards/v2/NziSt6YDJYyPah45jpW3U.png?type=default&r=pa1)](https://app.daily.dev/ryuzv)
     </td>
     <td>
+    <!-- <td>
 [![DevCard](/asset/Screenshot%202026-03-07%20142855.png)](https://devcard.link/jOV2H0)
-    </td>
+    </td> -->
 
   </tr>
 </table>

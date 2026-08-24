@@ -60,7 +60,21 @@ Saat ini, saya sedang mempelajari dan bereksperimen dengan membangun proyek-proy
 
 
 <!-- project tampilan -->
-
+## Project
+<details open>
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <img src="/asset/demo/0822.gif">
+    </td>
+    <td align="center">
+      <img src="/asset/demo/0822(1).gif">
+    </td>
+  </tr>
+</table>
+</div>
+</details>
 
 ## Statistik GitHub
 <div align="center">

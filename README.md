@@ -68,9 +68,9 @@ Currently, I am studying and experimenting with building projects such as bots, 
     <td align="center">
       <img src="/asset/demo/0822.gif">
     </td>
-    <td align="center">
+    <!-- <td align="center">
       <img src="/asset/demo/0822(1).gif">
-    </td>
+    </td> -->
   </tr>
 </table>
 </div>

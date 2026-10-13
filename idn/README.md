@@ -81,8 +81,9 @@ Saat ini, saya sedang mempelajari dan bereksperimen dengan membangun proyek-proy
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuz-V&theme=tokyonight&hide_border=true&background=00000000" alt="streak graph" />
 </div>
-  <img alt="DIMFLIX Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Ryuz-V&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
-  <figure><embed src="https://wakatime.com/share/@Ryuz/4fd98d8d-46b5-4cb5-99f1-143e0583a5c2.svg"></embed></figure>
+<img alt="DIMFLIX Activity Graph" src="https://github-readme-activity-graph-beta-nine.vercel.app/graph?username=Ryuz-V&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph"/>
+<br>
+  <img alt="WakaTime Stats" src="https://wakatime.com/share/@Ryuz/4fd98d8d-46b5-4cb5-99f1-143e0583a5c2.svg" />
   <!-- pacman statik --
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryuz-V/Ryuz-V/output/pacman-contribution-graph-dark.svg">

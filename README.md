@@ -36,7 +36,7 @@ Currently, I am studying and experimenting with building projects such as bots, 
 ## Tech Arsenal
 <div align="center">
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,bootstrap,react,ts,laravel,php,nodejs,python,vite,mongodb,mysql,git,docker,figma,ps,ai,vscode,visualstudio,arch,linux&perline=9" width="600" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs,bootstrap,react,ts,laravel,php,nodejs,python,vite,mongodb,mysql,git,docker,figma,ps,ai,vscode,visualstudio,arch,linux,postgres,prisma,supabase&perline=9" width="600" alt="My Skills" />
 </a>
 </div>
 
@@ -80,9 +80,11 @@ Currently, I am studying and experimenting with building projects such as bots, 
 <div align="center">
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryuz-V&theme=tokyonight&hide_border=true&background=00000000" alt="streak graph" />
-</div>
-  <img alt="DIMFLIX Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=Ryuz-V&bg_color=RRGGBBAA&title_color=00abf0&color=00abf0&line=00abf0&point=DEDEDE&hide_border=true&custom_title=Contribution⠀Graph" />
-  <figure><embed src="https://wakatime.com/share/@Ryuz/4fd98d8d-46b5-4cb5-99f1-143e0583a5c2.svg"></embed></figure>
+  <br>
+<img alt="DIMFLIX Activity Graph" src="https://github-readme-activity-graph-beta-nine.vercel.app/graph?username=Ryuz-V&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph"/>
+  <br>
+  <img alt="WakaTime Stats" src="https://wakatime.com/share/@Ryuz/4fd98d8d-46b5-4cb5-99f1-143e0583a5c2.svg" />
+  
   <!-- pacman statik --
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ryuz-V/Ryuz-V/output/pacman-contribution-graph-dark.svg">
@@ -105,8 +107,11 @@ Currently, I am studying and experimenting with building projects such as bots, 
     </td>
     <td>
       <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312lg5pf7jevxcmxczncx6rxdjqu&redirect=true">
-        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312lg5pf7jevxcmxczncx6rxdjqu&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&profanity=false&bar_color_cover=true" alt="Spotify"/>
-      </a>
+ <p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=312lg5pf7jevxcmxczncx6rxdjqu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=312lg5pf7jevxcmxczncx6rxdjqu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false">
+  </a>
+</p>
     </td>
   </tr>
 </table>
